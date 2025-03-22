@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @P-Chel
+- 👋 Hi, I’m Chelsie AKA FrozenYogurt
 - 👀 I’m interested in developing my skills to be a full stack developer
 - 🌱 I’m currently learning java (OOP and making small projects)
 - 💞️ I’m looking to collaborate on ...
